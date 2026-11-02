@@ -98,4 +98,4 @@ The notebook downloads the dataset and the AirPassengers CSV from public URLs, s
 - Cluster labels are group IDs, not rankings.
 - ARIMA forecasts are estimates and carry uncertainty.
 ---
-**Author:** Nosiyadevi | 23BDS027
+**Author:** Nosiyadevi | 23BDS0273
